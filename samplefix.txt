@@ -1,0 +1,17 @@
+MYSTUDY C64456 AJAX
+DRAFT VER 1.6
+
+Ajax Study
+Dose and Placebo
+
+NOTEl The quick brown fox
+NOTE2 jumps over a lazy dog.
+NOTE3 Pack my box with
+
+NOTE4 The order staistics are
+NOTE6 lst, 2nd, 3rd, 4th, 5th
+NOTE7 6th, 7th, 8th, 9th,and tenth
+
+PG M: c:\tut\tut_g rftwowthttl .sas
+OUT: c:\tut\tut_grftwowthtt|.pdf
+
